@@ -19,4 +19,4 @@ set backspace=eol,start,indent
 set whichwrap+=<,>,h,l
 set hlsearch
 set incsearch
-
+nnoremap A $
